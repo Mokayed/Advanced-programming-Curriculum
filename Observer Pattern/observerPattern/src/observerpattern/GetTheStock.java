@@ -7,10 +7,7 @@ package observerpattern;
 
 import java.text.DecimalFormat;
 
-/**
- *
- * @author Lasse Andersen
- */
+
 public class GetTheStock {
     // Could be used to set how many seconds to wait
 
@@ -81,5 +78,3 @@ public class GetTheStock {
     }
 
 }
-
-

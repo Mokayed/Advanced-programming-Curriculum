@@ -2,10 +2,7 @@ package observerpattern;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Lasse Andersen
- */
+
 public class StockGrabber implements Subject {
 
     private ArrayList<Observer> observers;
