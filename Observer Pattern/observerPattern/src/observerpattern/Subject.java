@@ -5,10 +5,7 @@
  */
 package observerpattern;
 
-/**
- *
- * @author Lasse Andersen
- */
+
 public interface Subject {
 
     public void register(Observer o);
