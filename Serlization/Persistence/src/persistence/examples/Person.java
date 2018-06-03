@@ -7,10 +7,7 @@ package persistence.examples;
 
 import java.util.Date;
 
-/**
- *
- * @author Tobias
- */
+
 public interface Person
 {
     public String getFirstName();

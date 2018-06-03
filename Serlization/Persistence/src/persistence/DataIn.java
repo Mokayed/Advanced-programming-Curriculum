@@ -8,9 +8,6 @@ package persistence;
 import java.io.Closeable;
 import java.io.DataInput;
 
-/**
- *
- * @author Tobias
- */
+
 public interface DataIn extends DataInput, Closeable
 {}

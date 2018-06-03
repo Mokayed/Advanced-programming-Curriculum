@@ -10,10 +10,7 @@ import persistence.examples.Address;
 import persistence.examples.Person;
 import persistence.examples.PersonFactory;
 
-/**
- *
- * @author Tobias
- */
+
 public class PersonFactoryImpl implements PersonFactory
 {
     private static PersonFactory instance;

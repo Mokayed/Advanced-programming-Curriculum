@@ -14,10 +14,7 @@ import persistence.examples.Address;
 import persistence.examples.Person;
 import persistence.examples.PersonFactory;
 
-/**
- *
- * @author Tobias
- */
+
 public class PersonSerializer implements Serializer<Person>
 {
     private static Serializer<Person> instance;

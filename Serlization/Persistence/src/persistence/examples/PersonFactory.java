@@ -7,10 +7,7 @@ package persistence.examples;
 
 import java.util.Date;
 
-/**
- *
- * @author Tobias
- */
+
 public interface PersonFactory
 {
     public Person newPerson(String firstName, String lastName, Date birthdate, Address address);

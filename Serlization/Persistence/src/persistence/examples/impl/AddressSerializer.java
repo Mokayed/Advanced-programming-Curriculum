@@ -12,10 +12,7 @@ import persistence.Serializer;
 import persistence.examples.Address;
 import persistence.examples.AddressFactory;
 
-/**
- *
- * @author Tobias
- */
+
 public class AddressSerializer implements Serializer<Address>
 {
     private static Serializer<Address> instance;

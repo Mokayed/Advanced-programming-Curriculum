@@ -8,10 +8,7 @@ package persistence.examples.impl;
 import persistence.examples.Address;
 import persistence.examples.AddressFactory;
 
-/**
- *
- * @author Tobias
- */
+
 public class AddressFactoryImpl implements AddressFactory
 {
     private static AddressFactory instance;

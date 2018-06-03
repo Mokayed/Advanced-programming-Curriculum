@@ -5,10 +5,7 @@
  */
 package persistence.examples;
 
-/**
- *
- * @author Tobias
- */
+
 public interface AddressFactory
 {
     public Address newAddress(String street, int number, int zipcode);

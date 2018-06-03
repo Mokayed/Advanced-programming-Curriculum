@@ -5,10 +5,7 @@
  */
 package persistence.examples;
 
-/**
- *
- * @author Tobias
- */
+
 public interface Address
 {
     public String getStreet();

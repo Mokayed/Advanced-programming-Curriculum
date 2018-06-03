@@ -19,10 +19,7 @@ import persistence.examples.impl.PersonSerializer;
 import persistence.examples.impl.PersonFactoryImpl;
 import persistence.impl.FilePersistence;
 
-/**
- *
- * @author Tobias
- */
+
 public class DemoPut
 {
     public static void main(String[] args) throws IOException

@@ -7,10 +7,7 @@ package persistence;
 
 import java.io.IOException;
 
-/**
- *
- * @author Tobias
- */
+
 public interface Persistence
 {
     public DataOut put(long id) throws IOException;

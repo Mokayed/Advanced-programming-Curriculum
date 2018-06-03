@@ -9,11 +9,7 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-/**
- *
- * @author Tobias
- * @param <T>
- */
+
 public interface Serializer<T>
 {
     public void serialize(T dataObj, DataOutput out) throws IOException;

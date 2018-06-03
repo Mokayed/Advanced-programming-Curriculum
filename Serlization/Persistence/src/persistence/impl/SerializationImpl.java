@@ -12,10 +12,7 @@ import persistence.Serialization;
 import persistence.Serializer;
 
 
-/**
- *
- * @author Tobias
- */
+
 public class SerializationImpl implements Serialization
 {
 

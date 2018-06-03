@@ -8,9 +8,6 @@ package persistence;
 import java.io.Closeable;
 import java.io.DataOutput;
 
-/**
- *
- * @author Tobias
- */
+
 public interface DataOut extends DataOutput, Closeable
 {}

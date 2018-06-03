@@ -17,10 +17,7 @@ import persistence.DataIn;
 import persistence.DataOut;
 import persistence.Persistence;
 
-/**
- *
- * @author Tobias
- */
+
 public class FilePersistence implements Persistence
 {
     private final Path storageDir;
